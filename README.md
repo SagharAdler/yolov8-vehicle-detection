@@ -37,7 +37,7 @@ The notebook includes per-class qualitative visualizations where each subplot:
 - Overlays ground truth boxes (green) and model predictions (red)
 - Annotates confidence score and IoU per prediction
 
-![Sample Visualization](YOLO.png)
+![Sample Visualization](Yolo.png)
 
 ---
 
