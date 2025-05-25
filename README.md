@@ -53,8 +53,6 @@ The following plot summarizes the model's training performance over 50 epochs:
 
 ![Training Curves](yolo-result.png)
 
-### Observations:
-
 #### Loss Curves
 - `train/box_loss` and `val/box_loss` both decrease steadily, indicating that the model is improving in localizing bounding boxes over time.
 - `train/cls_loss` and `val/cls_loss` drop smoothly, showing that class prediction accuracy improves consistently.
